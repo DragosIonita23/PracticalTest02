@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">SERVER PORT</string>
+    <string name="connect">CONNECT</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">CLIENT ADDRESS</string>
+    <string name="client_port">CLIENT PORT</string>
+    <string name="city">NAME</string>
+    <string name="get_weather_forecast">GET FROM SERVER</string>
+</resources>
